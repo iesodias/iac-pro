@@ -1,4 +1,4 @@
-# Terraform Seguro 2025: DevSecOps & Azure sem Vulnerabilidades
+# Terraform + IA: Domine AWS e Azure na Prática
 
 Bem-vindo ao repositório oficial do curso!
 
